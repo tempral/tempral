@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=tempral&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tempral&layout=compact&theme=buefy&hide_border=true" />
 <!--
 **tempral/tempral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
